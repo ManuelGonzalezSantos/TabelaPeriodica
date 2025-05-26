@@ -44,24 +44,24 @@ h1 {
   text-align: left;
 }
  
-/* Cores por grupo químico */
+
 .nao-metal {
-  background-color: #7cbd7c; /* verde */
+  background-color: #7cbd7c; 
   color: black;
 }
  
 .gases-nobres {
-  background-color: #FF6666; /* vermelho claro */
+  background-color: #FF6666; 
   color: black;
 }
  
 .metais-alcalinos {
-  background-color: #FFB347; /* laranja */
+  background-color: #FFB347;
   color: black;
 }
  
 .metais-alcalino-terrosos {
-  background-color: #FFD700; /* amarelo */
+  background-color: #FFD700; 
   color: black;
 }
  
@@ -71,22 +71,22 @@ h1 {
 }
  
 .metaloides {
-  background-color: #5babb2; /* dourado */
+  background-color: #5babb2; 
   color: black;
 }
  
 .halogenios {
-  background-color: #51d6df; /* verde água */
+  background-color: #51d6df; 
   color: black;
 }
  
 .lantanideos {
-  background-color: #FF69B4; /* rosa */
+  background-color: #FF69B4;
   color: black;
 }
  
 .actinideos {
-  background-color: #BA55D3; /* roxo */
+  background-color: #BA55D3; 
   color: white;
 }
 .elemento {

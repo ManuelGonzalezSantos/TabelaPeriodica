@@ -67,7 +67,7 @@ function carregarTabela() {
     const classeGrupo = getClasseGrupo(elem.grupo || '');
     if (classeGrupo) div.classList.add(classeGrupo);
 
-    // Tooltip com todas as informações
+    
     const tooltipHTML = `
       <div class="tooltip">
         <strong>${elem.nome} (${elem.simbolo})</strong><br>
