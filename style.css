@@ -20,8 +20,8 @@ h1, h2 {
 
 .tabela-periodica {
   display: grid;
-  grid-template-columns: repeat(18, 40px); /* reduzido de 50px para 40px */
-  gap: 4px; /* menor espaçamento */
+  grid-template-columns: repeat(18, 40px); 
+  gap: 4px; 
   justify-content: center;
 }
 
@@ -29,8 +29,8 @@ h1, h2 {
   background-color: #386ca8;
   color: black;
   border-radius: 6px;
-  padding: 6px 3px; /* padding menor */
-  font-size: 11px; /* fonte menor */
+  padding: 6px 3px; 
+  font-size: 11px; 
   cursor: grab;
   transition: background-color 0.2s ease;
   user-select: none;
